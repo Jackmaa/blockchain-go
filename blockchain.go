@@ -290,3 +290,4 @@ func dbExists() bool {
 
 	return true
 }
+
